@@ -1,0 +1,28 @@
+# --- BASICS n SECURITY ---
+apt update
+apt dist-upgrade
+
+# https://github.com/skeeto/endlessh / https://github.com/itskenny0/fail2ban-endlessh
+
+# ssh disable password, use key. disable login as root | ssh-keygen -t rsa -b 4096
+
+# fun optional stats gen. like what currently is blocked
+
+# personal preferences / tools
+wget nano
+
+# --- INFRA ---
+# DNS (BIND9 / unbound / other) + prefered trusted vendors for real internet (1.1.1.1 / 9.9.9.9 etc or diy by contacting root tld providers like .com .net .org owners)
+
+# Whois for .nty + Domain control panel (kinda like cloudflare) / Portal for custom .domain (aka namecheap but you own it and costs nothing)
+
+# tests for custom nameserver (bc ICANN SUUUCKS)
+dns.nty -> STATUS_OK
+
+# VPN (/wireguard) https://github.com/Nyr/openvpn-install https://github.com/Nyr/wireguard-install/
+
+# --- PUNCH A NAT (Home server -> VPS -> Internet = Any internet -> Home server) ---
+# install frp
+
+# --- APPS ---
+# guacamole - html5 rdp
