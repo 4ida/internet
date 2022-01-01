@@ -24,5 +24,12 @@ dns.nty -> STATUS_OK
 # --- PUNCH A NAT (Home server -> VPS -> Internet = Any internet -> Home server) ---
 # install frp
 
-# --- APPS ---
+# --- APPS | Modern Life Essentials --- 
+# Selfsustain: XMPP / EMAIL / Pixelfed (Instagram) / Plemora (Twitter) / Bookstack / Video site (Peertube, Viddla, etc)
+# Mirror-able: Maps (OSM) / Wikipedia mirror? / Linux repo mirror (Debian, Arch)
+# Code mirrorable: Linux, Wine, VLC, Libreoffice, Blender, etc...
+
+# --- APPS | TOOLS | Good to have ---
+# Webapp barcode gen and scanner
+# SSH html5
 # guacamole - html5 rdp
