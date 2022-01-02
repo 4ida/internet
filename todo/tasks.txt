@@ -25,7 +25,7 @@ dns.nty -> STATUS_OK
 # install frp
 
 # --- APPS | Modern Life Essentials --- 
-# Selfsustain: XMPP / EMAIL / Pixelfed (Instagram) / Plemora (Twitter) / Bookstack / Video site (Peertube, Viddla, etc)
+# Selfsustain: searxng / XMPP / EMAIL / Pixelfed (Instagram) / Plemora (Twitter) / Bookstack / Video site (Peertube, Viddla, etc)
 # Mirror-able: Maps (OSM) / Wikipedia mirror? / Linux repo mirror (Debian, Arch)
 # Code mirrorable: Linux, Wine, VLC, Libreoffice, Blender, etc...
 
